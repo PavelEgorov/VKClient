@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">VKClient</string>
+    <string name="app_name" translatable="false">VKClient</string>
+    <string name="namePageMain">Main</string>
+    <string name="namePageMusic">Music</string>
+    <string name="namePageVideo">Video</string>
+    <string name="namePageProfile">Profile</string>
+
+    <string name="error">Error</string>
 </resources>
